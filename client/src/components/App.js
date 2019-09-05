@@ -9,5 +9,3 @@ const App = () => {
 };
 
 export default App;
-
-// mongodb+srv://billy:billy@cluster0-f1wyg.mongodb.net/test?retryWrites=true&w=majority
